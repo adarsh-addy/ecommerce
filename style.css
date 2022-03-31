@@ -1,0 +1,194 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    height: 60px;
+    background-color: blue;
+    display: flex;
+    background-color: #0000b3;
+   
+}
+.logo{
+    height: 60px;
+    /* background-color: red; */
+    width: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.image1 img{
+    height: 40px;
+    width: 80px;
+    margin-left: 220px;
+}
+.searchbar{
+    /* background-color: orange; */
+    height: 60px;
+    width: 700px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    /* background-color: orange;
+    height: 40px;
+    width: 65%; */
+    position: relative;
+
+ }
+.search input{
+    height: 40px;
+    width:600px;
+    outline: none;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -50px;
+   
+}
+.icon{
+    position: absolute;
+    left:600px;
+    color: grey;
+}
+.login{
+    height: 60px;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 60px; */
+}
+.listing{
+    height: 60px;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-weight:bold;
+    font-size: 16px; */
+   margin-left: 40px;
+   
+}
+.cart{
+    /* background-color: aqua; */
+    height: 60px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.iconcart{
+    margin-left: 50px;
+}
+/* head second */
+.heading2{
+    /* background-color: aqua; */
+    height: 140px;
+    display: flex;
+   
+}
+.info1{
+    /* background-color: rgb(214, 27, 27); */
+    height: 140px;
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.icon1{
+   height:90px ;
+   /* background-color: blueviolet; */
+   width: 100px;
+}
+.slide{
+    /* background-color: aqua; */
+    height: 400px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.image2{
+    /* background-color: red; */
+    height: 380px;
+    width: 1480px;
+    
+}
+.underline{
+    border: dotted grey;
+    border-bottom: none;
+    width: 5%;
+    margin: 20px auto;
+    border-width: 10px;
+  }
+  .stock0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .stock{
+      background-color: rgb(243, 247, 247);
+      height: 350px;
+      width: 1480px;
+      /* display: flex; */
+  }
+  .head{
+     /* background-color: blueviolet; */
+     height: 50px;
+     width: 1480px;
+     display: flex;
+     position: relative;
+    
+  }
+.h1{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 200px;
+    margin-left: 20px;
+    
+}
+.btn1{
+    /* background-color: blue; */
+    height: 50px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right:20px;
+
+}
+.stock1{
+    height:260px ;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.image3{
+    /* background-color: rgb(177, 226, 43); */
+    height: 130px;
+    width: 150px;
+   margin-left: 50px;
+}
+/* .sample{
+    background-color: blue;
+} */
+.sample-parent{
+    /* background-color: blueviolet; */
+    height: 130px;
+    width: 150px;
+}
+.sample-parent img{
+    height: 130px;
+    width: 150px;
+}
